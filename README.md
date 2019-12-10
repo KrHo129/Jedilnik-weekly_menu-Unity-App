@@ -4,7 +4,7 @@ Aplikacija ustvarjena za zgolj eno družino. Jedi lahko vnaša/odstranjuje vsak 
 
 Podatki se hranijo preko Firebase Database.
 
-Dodani tudi funkciji za vpisovanje nakupovalnega listka, ter pošiljanja vsem uporabnikom preko aplikacije (via Firebase messaging).
+Dodani tudi funkciji za vpisovanje nakupovalnega listka, ter pošiljanja obvestil vsem uporabnikom preko aplikacije (via Firebase messaging).
 
 <img src="https://raw.githubusercontent.com/KrHo129/Jedilnik-weekly_menu-Unity-App/master/Screenshot demo.png" alt="example_image"/>
 
