@@ -1,6 +1,6 @@
 # Tedenski meni/jedilnik
 
-Aplikacija ustvarjena za zgolj eno družino. Jedi lahko vnaša/odstranjuje vsak z naloženo aplikacijo.
+Aplikacija ustvarjena za zgolj eno družino (ni avtentikacije; vsak z naloženo aplikacijo se poveže v isto bazo).
 
 Podatki se hranijo preko Firebase Database.
 
